@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b45f9e4-2979-4593-93d8-bc8ca9f66e89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.edu.ucsd.cs110 in cse110lab5">
+  <component name="RunManager" selected="JUnit.edu.ucsd.cs110.tests in cse110lab5">
     <configuration name="edu.ucsd.cs110 in cse110lab5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cse110lab5" />
       <extension name="coverage">
@@ -86,8 +85,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.edu.ucsd.cs110 in cse110lab5" />
         <item itemvalue="JUnit.edu.ucsd.cs110.tests in cse110lab5" />
+        <item itemvalue="JUnit.edu.ucsd.cs110 in cse110lab5" />
       </list>
     </recent_temporary>
   </component>
